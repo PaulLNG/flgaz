@@ -2,7 +2,7 @@
 
 Flask est un framework open source développé en Python , il est maintenu dans un seul fichier Python.
 Il est très simple d'utilisation et à pour équivalent en NodeJS (au niveau de son poid et de ses fonctionnalités) le framework ExpressJS.
-Dans notre projet , nous utilisons Flask pour définir les routes de notre projet dans le fichier "app.py"
+Dans notre projet , nous utilisons Flask pour définir les routes de notre application dans le fichier "app.py".
 
 # Qu'est-ce que Pythonanywhere ?
 
@@ -12,4 +12,12 @@ Il permet d'héberger gratuitement son application Python et de pouvoir la visua
 
 # Que fait l'application flgaz ?
 
-L'application flgaz ...
+L'application flgaz dispose d'un fichier "gazouille.csv" contenant à chaque ligne des informations ( auteur du tweet & message du tweet ).
+
+Ces informations sont utilisées par l'application de différentes façon selon l'url sur laquelle nous sommes. Chaque URL fera appel à une routes qui éxécutera un code précis. 
+
+Par exemple :
+
+- Si nous sommes sur l'url "/gaz" , nous aurons un formulaire que nous pourrons remplir afin d'ajouter une nouvelle ligne dans notre fichier csv.
+
+- Si nous sommes sur l'url "/timeline" , nosu pourrons voir l'intégralité des informations stocké dans le fichier csv. 
