@@ -1,10 +1,14 @@
-# Qu'est-ce que Flask ?
+# Qu'est-ce que Flask ? 
 
 Flask est un framework open source développé en Python , il est maintenu dans un seul fichier Python.
 Il est très simple d'utilisation et à pour équivalent en NodeJS (au niveau de son poid et de ses fonctionnalités) le framework ExpressJS.
 Dans notre projet , nous utilisons Flask pour définir les routes de notre application dans le fichier "app.py".
 
-# Qu'est-ce que Pythonanywhere ?
+# Quels sites connus utilise FLASK ? 
+
+Des sites connus comme google , spotify ou bien isntagram utilisent FLASK.
+
+# Que propose le site PythonAnywhere.com ? Quelles actions ont été réalisés ?
 
 Pythonanywhere est à la fois un environnement de développement intégré en ligne et un service d'hébergement Web basé sur le langage de programmation Python.
 
@@ -12,7 +16,7 @@ Il permet d'héberger gratuitement son application Python et de pouvoir la visua
 
 Il vous suffira ensuite d'accéder au lien de votre application fourni par Pythonanywhere et vous pourrez visualiser celle-ci.
 
-# Que fait l'application flgaz ?
+# Que fait l'application flgaz ? Difficultés rencontrées ?
 
 L'application flgaz dispose d'un fichier "gazouille.csv" contenant à chaque ligne des informations ( auteur du tweet & message du tweet ).
 
@@ -23,3 +27,11 @@ Par exemple :
 - Si nous sommes sur l'url "/gaz" , nous aurons un formulaire que nous pourrons remplir afin d'ajouter une nouvelle ligne dans notre fichier csv.
 
 - Si nous sommes sur l'url "/timeline" , nosu pourrons voir l'intégralité des informations stocké dans le fichier csv. 
+
+
+Je n'ai pas rencontré de réelles difficultés pour mettre en place l'application sur Pythonanywhere et pour appréhender les fonctionnalités que propose celles-ci.
+
+
+# Réflexion sur le projet 
+
+Le framework FLASK est très légers et ne dispose pas de toutes les fonctionnalités requises pour la sécurisation d'une application.
