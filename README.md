@@ -10,6 +10,8 @@ Pythonanywhere est à la fois un environnement de développement intégré en li
 
 Il permet d'héberger gratuitement son application Python et de pouvoir la visualiser directement en ligne. Pour cela , il suffit d'importer un projet (fichiers et dossiers de celui-ci) sur une Web App que vous aurez préalablement créée sur votre compte Pythonanywhere puis d'indiquer la source de votre code (le path) et le fichier qui devra être éxécuté en premier. 
 
+Il vous suffira ensuite d'accéder au lien de votre application fourni par Pythonanywhere et vous pourrez visualiser celle-ci.
+
 # Que fait l'application flgaz ?
 
 L'application flgaz dispose d'un fichier "gazouille.csv" contenant à chaque ligne des informations ( auteur du tweet & message du tweet ).
