@@ -20,7 +20,7 @@ Des sites connus comme google , spotify ou bien isntagram utilisent FLASK.
 
 # Description des actions réalisées
 
-- Quelles étapes avez-vous suivi ?
+Quelles étapes avez-vous suivi ?
 
 - Créer un compte sur Pythonanywhere 
 - Créer une Web App à partir de notre compte Pythonanywhere
@@ -28,7 +28,7 @@ Des sites connus comme google , spotify ou bien isntagram utilisent FLASK.
 - Configurer le chemin du wordspace , du code source ainsi que le nom du fichier à éxécuté lors de l'accès au lien de l'application
 - Accéder au lien de l'application via le dashboard
 
-- Quelles difficultés avez-vous rencontrées ?
+Quelles difficultés avez-vous rencontrées ?
 
 Je n'ai pas rencontré de réelles difficultés pour mettre en place l'application sur Pythonanywhere et pour appréhender les fonctionnalités que propose celles-ci.
 
